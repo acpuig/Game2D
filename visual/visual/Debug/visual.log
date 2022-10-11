@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  game.cpp
+c:\users\gemma\downloads\tje2d-master_nou\tjed2_v10\tje2d-master\src\image.h(61): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\gemma\downloads\tje2d-master_nou\tjed2_v10\tje2d-master\src\image.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\gemma\downloads\tje2d-master_nou\tjed2_v10\tje2d-master\src\image.h(105): warning C4018: '<': no coinciden signed/unsigned
+framework.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+  visual.vcxproj -> C:\Users\Gemma\Downloads\TJE2D-master_nou\TJED2_V10\TJE2D-master\visual\visual\..\..\Game.exe
